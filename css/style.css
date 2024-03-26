@@ -1,0 +1,9 @@
+@import "./normalize.css";
+@import "./fonts.css";
+
+:root {
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
